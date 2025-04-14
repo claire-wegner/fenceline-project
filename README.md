@@ -4,10 +4,10 @@ README
 ## About the project
 
 The data and R script included in this repository were used in the
-analysis for the research article by Wegner et al. (submitted to animal)
+analysis for the research article by Wegner et al. (2025)
 titled “Behavioural response of dairy cows and calves to fenceline
 weaning after 4 or 6 months of full cow-calf contact”. The script also
-includes the creation of Fig. 3, Fig. 4 and Fig. 5. For details on study
+includes the creation of Fig. 4, Fig. 5 and Fig. 6. For details on study
 design, please refer to the materials and methods as written in the
 article.
 
@@ -55,11 +55,6 @@ Parity of the cow.
 ### cow_calf
 
 Whether the individual is a ‘cow’ or ‘calf’.
-
-### single_twins
-
-Whether the individual is a single cow/calf, or a set of twins whose
-data was averaged to create a single value.
 
 ### percent_near
 
