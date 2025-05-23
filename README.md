@@ -5,7 +5,7 @@ README
 
 The data and R script included in this repository were used in the
 analysis for the research article by Wegner et al. (2025)
-titled “Behavioural response of dairy cows and calves to fenceline
+titled “Behavioural responses of dairy cows and calves to fenceline
 weaning after 4 or 6 months of full cow-calf contact”. The script also
 includes the creation of Fig. 4, Fig. 5 and Fig. 6. For details on study
 design, please refer to the materials and methods as written in the
